@@ -25,11 +25,14 @@ This project recreates the YouTube homepage interface to practice front-end web 
 
 ## 🎯 Purpose
 
-This project was built to improve my HTML, CSS skills through hands-on practice.
+This project was built to improve my HTML anad CSS through hands-on practice.
 
 ## 🚀 Future Improvements
 
-- Responsive layout
+- Responsive design
 - Dark mode
 - Search functionality
 - Backend integration
+
+---
+⭐ Thank you for visiting my project!
